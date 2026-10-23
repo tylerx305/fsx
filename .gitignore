@@ -1,0 +1,13 @@
+# Frontend dependencies and generated assets
+node_modules/
+dist/
+*.log
+
+# Rust build output
+src-tauri/target/
+
+# Local IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
